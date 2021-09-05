@@ -3,7 +3,7 @@ class config:
     APP_ID = "7556004"
     API_HASH = "38334c77607adf01923c82a9f5149dcf"
     DATABASE_URL = "postgres://qbffogvzqqdrec:0bb2cfe07dfc0ccd7a4ca22334dc6382d811524f6a155788114e918218e8b08f@ec2-54-145-188-92.compute-1.amazonaws.com:5432/d7s22o3euiqs4o"
-    SUDO_USERS = "567852320 779431236" # Sepearted by space.
+    SUDO_USERS = "567852320" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/1g9L7zXXG1AxNjI1"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "341286837196-luj1lclqpgo34tvgjn46fbm6bkkpdc8m.apps.googleusercontent.com"
