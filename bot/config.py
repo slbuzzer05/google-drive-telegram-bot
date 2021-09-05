@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1970014190:AAFY31b3F3AJXHlzh4aRbzxKfRhmxXThYwg"
+    BOT_TOKEN = "1975494340:AAEiiUTWb84cK8D5e5LBg-mq2gklXBrFQa4"
     APP_ID = "7556004"
     API_HASH = "38334c77607adf01923c82a9f5149dcf"
     DATABASE_URL = "postgres://dsfbukgrxhfmfi:8f9eae1a69f38072c5fd17d29e491f5e93056fca5393fb55112da5b54da588b5@ec2-18-215-44-132.compute-1.amazonaws.com:5432/d8ujr1rptqveej"
     SUDO_USERS = "567852320" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "341286837196-luj1lclqpgo34tvgjn46fbm6bkkpdc8m.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "5KcUwEA7LSCGr8ndRek5A_t7"
+    G_DRIVE_CLIENT_ID = "101705652274-9u7vq2ei5usii4pd3h4fh53mf4prk6m2.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "hUo6mpRDnoj5RkeUF2UjLq_H"
 
 
 class BotCommands:
